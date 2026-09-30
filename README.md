@@ -18,7 +18,7 @@ and security.
 
 ## Featured projects
 
-### 🛒 [CompraYa](https://github.com/DevKevZeb/compraYa) · [Live demo](https://compra-ya-wkz.vercel.app)
+### 🛒 [CompraYa](https://github.com/dev-kevzeb/compraYa) · [Live demo](https://compra-ya-wkz.vercel.app)
 
 Mobile e-commerce app: catalog, favorites, a three-step checkout with the delivery point picked on a
 map, card/QR payments and live order tracking. Supabase Postgres with Row Level Security and
@@ -26,16 +26,16 @@ server-side pricing.
 
 `React Native` `Expo` `Supabase` `PostgreSQL` `Jest`
 
-### 📊 [Impact Dashboard](https://github.com/DevKevZeb/impact-dashboard) · [Live demo](https://impact-dashboard-wkz.vercel.app)
+### 📊 [Impact Dashboard](https://github.com/dev-kevzeb/impact-dashboard) · [Live demo](https://impact-dashboard-wkz.vercel.app)
 
 Program and project management platform for tracking KPIs, SDGs and budgets across countries, with
 three role-based personas and interactive dashboards. Its backend,
-**[Impact Dashboard API](https://github.com/DevKevZeb/impact-dashboard-api)**, is a Laravel 12 REST
+**[Impact Dashboard API](https://github.com/dev-kevzeb/impact-dashboard-api)**, is a Laravel 12 REST
 API with 229 endpoints, JWT auth, a domain-driven architecture and OpenAPI docs.
 
 `React` `TypeScript` `TanStack Query` `Tailwind CSS` `Laravel` `PostgreSQL`
 
-### 🏅 [Olimpia](https://github.com/DevKevZeb/olimpia) · [Live demo](https://olimpia-wkz.vercel.app)
+### 🏅 [Olimpia](https://github.com/dev-kevzeb/olimpia) · [Live demo](https://olimpia-wkz.vercel.app)
 
 Registration platform for academic olympiads: bulk registration from Excel, payment slips, automatic
 verification of PDF payment receipts and exportable reports.
