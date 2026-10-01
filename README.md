@@ -1,4 +1,4 @@
-<img src="assets/header.svg" alt="Kevin Zeballos · Full-Stack Developer" width="100%" />
+<img src="assets/header.svg" alt="Wally Kevin Zeballos Oquendo · Full-Stack Developer" width="100%" />
 
 <p>
   <a href="https://www.linkedin.com/in/kev-zeballos"><img src="https://img.shields.io/badge/LinkedIn-kev--zeballos-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
