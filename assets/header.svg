@@ -15,7 +15,7 @@
     <circle cx="1060" cy="40" r="110"/>
     <circle cx="1060" cy="40" r="60"/>
   </g>
-  <text x="70" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#FFFFFF">Kevin Zeballos</text>
+  <text x="70" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#FFFFFF">Wally Kevin Zeballos Oquendo</text>
   <rect x="72" y="134" width="120" height="5" rx="2.5" fill="url(#accent)"/>
   <text x="70" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#C7D2FE">Full-Stack Developer · Web &amp; Mobile</text>
   <text x="70" y="220" font-family="Consolas, Menlo, monospace" font-size="18" fill="#94A3B8">React · React Native · TypeScript · Laravel · PostgreSQL · Supabase</text>
